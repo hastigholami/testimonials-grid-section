@@ -1,6 +1,7 @@
 body {
     background: hsl(214, 17%, 92%);
     font-family: "Barlow Semi Condensed", sans-serif;
+    padding: 1rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
@@ -14,8 +15,9 @@ body {
 
 .grid-1-2 {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 1rem;
+    
 }
 
 .grid-3-4 {
