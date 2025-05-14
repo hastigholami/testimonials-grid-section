@@ -1,15 +1,93 @@
-.blog-preview-daniel {}
-.author-info-daniel {}
-.blog-title-daniel {}
-.blog-preview-jonathan {}
-.author-info-jonathan {}
-.blog-title-jonathan {}
-.blog-preview-jeanette {}
-.author-info-jeanette {}
-.blog-title-jeanette {}
-.blog-preview-patrick {}
-.author-info-patrick {}
-.blog-title-patrick {}
-.blog-preview-kira {}
-.author-info-kira {}
-.blog-title-kira {}
+.author-info {}
+
+.blog-preview-daniel {
+    background-color: hsl(263, 55%, 52%);
+}
+
+.author-name-daniel {
+    color: hsl(260, 100%, 95%);
+}
+
+.author-status-daniel {
+    color: hsl(264, 82%, 80%);
+}
+
+.blog-title-daniel {
+    color: hsl(260, 100%, 95%);
+}
+
+.blog-daniel {
+    color: hsl(264, 82%, 80%);
+}
+
+
+.blog-preview-jonathan {
+    background-color: hsl(217, 19%, 35%);
+}
+
+.author-name-jonathan {
+    color: hsl(214, 17%, 92%);
+}
+
+.author-status-jonathan {
+    color: hsl(0, 0%, 81%);
+}
+
+.blog-title-jonathan {
+    color: hsl(214, 17%, 92%);
+}
+
+.blog-jonathan , .blog-jeanette , .blog-patrick , .blog-kira {
+    color: hsl(0, 0%, 81%);
+}
+
+
+.blog-preview-jeanette {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.author-name-jeanette {
+    color: hsl(219, 29%, 14%);
+}
+
+.author-status-jeanette {
+    color: hsl(0, 0%, 81%);
+}
+
+.blog-title-jeanette {
+    color: hsl(219, 29%, 14%);
+}
+
+
+.blog-preview-patrick {
+    background-color: hsl(219, 29%, 14%);
+}
+
+.author-name-patrick {
+    color: hsl(214, 17%, 92%);
+}
+
+.author-status-patrick {
+    color: hsl(0, 0%, 81%);
+}
+
+.blog-title-patrick {
+    color: hsl(214, 17%, 92%);
+}
+
+
+.blog-preview-kira {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.author-name-kira {
+    color: hsl(219, 29%, 14%);
+}
+
+.author-status-kira {
+    color: hsl(0, 0%, 81%);
+}
+
+.blog-title-kira {
+    color: hsl(219, 29%, 14%);
+}
