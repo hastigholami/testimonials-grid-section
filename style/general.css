@@ -25,3 +25,7 @@ body {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
+
+p {
+    margin: 0;
+}
