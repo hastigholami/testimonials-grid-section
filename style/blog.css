@@ -3,10 +3,6 @@
     margin-top: 10px;
 }
 
-.author-image {
-    
-}
-
 .thumbnail-container {
     display: grid;
     grid-template-columns: 80px 1fr;
@@ -17,6 +13,7 @@
     padding: 2rem;
     width: 660px;
     height: 250px;
+    border-radius: 10px;
 }
 
 .author-name-daniel {
@@ -42,6 +39,7 @@
     padding: 2rem;
     width: 260px;
     height: 250px;
+    border-radius: 10px;
 }
 
 .author-name-jonathan {
@@ -67,6 +65,7 @@
     padding: 2rem;
     width: 260px;
     height: 250px;
+    border-radius: 10px;
 }
 
 .author-name-jeanette {
@@ -88,6 +87,7 @@
     padding: 2rem;
     width: 660px;
     height: 250px;
+    border-radius: 10px;
 }
 
 .author-name-patrick {
@@ -107,7 +107,8 @@
 .blog-preview-kira {
     background-color: hsl(0, 0%, 100%);
     padding: 2rem;
-    width: 260px;
+    width: 265px;
+    border-radius: 10px;
 }
 
 .author-name-kira {
