@@ -1,7 +1,7 @@
 body {
     background: hsl(214, 17%, 92%);
     font-family: "Barlow Semi Condensed", sans-serif;
-    padding: 3rem;
+    padding: 2rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
@@ -27,6 +27,10 @@ body {
 }
 
 p {
+    margin: 0;
+}
+
+h3 {
     margin: 0;
 }
 
