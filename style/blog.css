@@ -21,6 +21,7 @@
 
 .author-name-daniel {
     color: hsl(260, 100%, 95%);
+    font-weight: 600;
 }
 
 .author-status-daniel {
@@ -45,6 +46,7 @@
 
 .author-name-jonathan {
     color: hsl(214, 17%, 92%);
+    font-weight: 600;
 }
 
 .author-status-jonathan {
@@ -69,6 +71,7 @@
 
 .author-name-jeanette {
     color: hsl(219, 29%, 14%);
+    font-weight: 600;
 }
 
 .author-status-jeanette {
@@ -89,6 +92,7 @@
 
 .author-name-patrick {
     color: hsl(214, 17%, 92%);
+    font-weight: 600;
 }
 
 .author-status-patrick {
@@ -108,6 +112,7 @@
 
 .author-name-kira {
     color: hsl(219, 29%, 14%);
+    font-weight: 600;
 }
 
 .author-status-kira {
