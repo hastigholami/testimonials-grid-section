@@ -1,7 +1,7 @@
 body {
     background: hsl(214, 17%, 92%);
     font-family: "Barlow Semi Condensed", sans-serif;
-    padding: 2rem;
+    padding: 8rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;

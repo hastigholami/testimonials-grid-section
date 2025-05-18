@@ -22,8 +22,8 @@
 .blog-preview-daniel {
     background-color: hsl(263, 55%, 52%);
     padding: 2rem;
-    width: 660px;
-    height: 270px;
+    width: 610px;
+    height: 290px;
     border-radius: 10px;
     position: relative;
 }
@@ -50,7 +50,7 @@
     background-color: hsl(217, 19%, 35%);
     padding: 2rem;
     width: 260px;
-    height: 250px;
+    height: 290px;
     border-radius: 10px;
 }
 
@@ -76,7 +76,7 @@
     background-color: hsl(0, 0%, 100%);
     padding: 2rem;
     width: 260px;
-    height: 250px;
+    height: 270px;
     border-radius: 10px;
 }
 
@@ -97,8 +97,8 @@
 .blog-preview-patrick {
     background-color: hsl(219, 29%, 14%);
     padding: 2rem;
-    width: 660px;
-    height: 250px;
+    width: 610px;
+    height: 270px;
     border-radius: 10px;
 }
 
@@ -119,7 +119,8 @@
 .blog-preview-kira {
     background-color: hsl(0, 0%, 100%);
     padding: 2rem;
-    width: 265px;
+    width: 260px;
+    height: 656px;
     border-radius: 10px;
 }
 
