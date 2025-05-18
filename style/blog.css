@@ -11,11 +11,12 @@
 .thumbnail-container-daniel {
     display: grid;
     grid-template-columns: 70px 1fr 1fr;
-
 }
 
 .bg-pattern-quotation {
-    display: grid;
+    position: absolute;
+    top: 0px;
+    right: 90px;
 }
 
 .blog-preview-daniel {
@@ -24,6 +25,7 @@
     width: 660px;
     height: 270px;
     border-radius: 10px;
+    position: relative;
 }
 
 .author-name-daniel {
