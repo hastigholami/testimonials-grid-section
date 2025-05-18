@@ -5,12 +5,12 @@
 
 .thumbnail-container {
     display: grid;
-    grid-template-columns: 70px 1fr;
+    grid-template-columns: 55px 1fr;
 }
 
 .thumbnail-container-daniel {
     display: grid;
-    grid-template-columns: 70px 1fr 1fr;
+    grid-template-columns: 55px 1fr 1fr;
 }
 
 .bg-pattern-quotation {
