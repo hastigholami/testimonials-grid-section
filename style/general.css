@@ -1,6 +1,5 @@
 body {
     background: hsl(214, 17%, 92%);
-    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 8rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -28,11 +27,15 @@ body {
 
 p {
     margin: 0;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-style: normal;
     font-size: 14.5px;
-    line-height: 24px;
+    line-height: 23px;
 }
 
 h3 {
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-style: normal;
     margin: 0;
 }
 
