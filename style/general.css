@@ -38,3 +38,9 @@ img {
     border-radius: 30px;
     border: 2px solid hsla(0, 0%, 100%, 0.633);
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
