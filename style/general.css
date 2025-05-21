@@ -29,15 +29,12 @@ body {
 
 p {
     margin: 0;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-style: normal;
-    font-size: 14.5px;
     line-height: 23px;
 }
 
 img {
-    width: 33px;
-    height: 33px;
+    width: 35px;
+    height: 35px;
     border-radius: 30px;
-    border: 2px solid hsl(0, 0%, 100%);
+    border: 2px solid hsla(0, 0%, 100%, 0.633);
 }

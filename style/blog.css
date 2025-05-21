@@ -1,13 +1,3 @@
-.author-info {
-    display: inline-block;
-    margin-top: 5px;
-}
-
-.author-image {
-    width: 55px;
-    height: 35px;
-}
-
 .thumbnail-container {
     display: flex;
     align-items: center;
@@ -17,18 +7,18 @@
 .thumbnail-container-daniel {
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 .bg-pattern-quotation {
-    position: absolute;
     top: 0px;
-    right: 90px;
-    align-self: flex-end;
+    right:100px;
     position: absolute;
 }
 
 .blog-preview-daniel {
     background-color: hsl(263, 55%, 52%);
+    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 2rem;
     width: 610px;
     height: 290px;
@@ -48,22 +38,22 @@
 
 .blog-title-daniel {
     color: hsl(260, 100%, 95%);
-    font-size: 21px;
     line-height: 25px;
     position: relative;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-size: 600;
-    font-style: normal;
     margin: 0;
 }
 
 .blog-daniel {
-    color: hsl(264, 82%, 80%);
+    color: hsla(264, 82%, 80%, 0.707);
+    font-size: 900;
+    margin: 0px;
+    line-height: 23px;
 }
 
 
 .blog-preview-jonathan {
     background-color: hsl(217, 19%, 35%);
+    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 2rem;
     width: 260px;
     height: 290px;
@@ -82,20 +72,21 @@
 
 .blog-title-jonathan {
     color: hsl(214, 17%, 92%);
-    font-size: 21px;
     line-height: 25px;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-size: large;
     margin: 0;
 }
 
 .blog-jonathan , .blog-jeanette , .blog-patrick , .blog-kira {
-    color: hsl(0, 1%, 67%);
+    color: hsla(0, 1%, 67%, 0.754);
+    font-size: 900;
+    margin: 0px;
+    line-height: 23px;
 }
 
 
 .blog-preview-jeanette {
     background-color: hsl(0, 0%, 100%);
+    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 2rem;
     width: 260px;
     height: 270px;
@@ -114,16 +105,14 @@
 
 .blog-title-jeanette {
     color: hsl(219, 29%, 14%);
-    font-size: 21px;
     line-height: 25px;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-size: large;
     margin: 0;
 }
 
 
 .blog-preview-patrick {
     background-color: hsl(219, 29%, 14%);
+    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 2rem;
     width: 610px;
     height: 270px;
@@ -142,16 +131,14 @@
 
 .blog-title-patrick {
     color: hsl(214, 17%, 92%);
-    font-size: 21px;
     line-height: 25px;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-size: large;
     margin: 0;
 }
 
 
 .blog-preview-kira {
     background-color: hsl(0, 0%, 100%);
+    font-family: "Barlow Semi Condensed", sans-serif;
     padding: 2rem;
     width: 260px;
     height: 656px;
@@ -170,9 +157,6 @@
 
 .blog-title-kira {
     color: hsl(219, 29%, 14%);
-    font-size: 21px;
     line-height: 25px;
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-size: large;
     margin: 0;
 }
