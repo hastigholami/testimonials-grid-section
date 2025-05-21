@@ -3,20 +3,28 @@
     margin-top: 5px;
 }
 
+.author-image {
+    width: 55px;
+    height: 35px;
+}
+
 .thumbnail-container {
-    display: grid;
-    grid-template-columns: 55px 1fr;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
 
 .thumbnail-container-daniel {
-    display: grid;
-    grid-template-columns: 55px 1fr 1fr;
+    display: flex;
+    align-items: center;
 }
 
 .bg-pattern-quotation {
     position: absolute;
     top: 0px;
     right: 90px;
+    align-self: flex-end;
+    position: absolute;
 }
 
 .blog-preview-daniel {
@@ -31,6 +39,7 @@
 .author-name-daniel {
     color: hsl(260, 100%, 95%);
     font-weight: 600;
+    line-height: 15px;
 }
 
 .author-status-daniel {
@@ -41,6 +50,11 @@
     color: hsl(260, 100%, 95%);
     font-size: 21px;
     line-height: 25px;
+    position: relative;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: 600;
+    font-style: normal;
+    margin: 0;
 }
 
 .blog-daniel {
@@ -59,6 +73,7 @@
 .author-name-jonathan {
     color: hsl(214, 17%, 92%);
     font-weight: 600;
+    line-height: 15px;
 }
 
 .author-status-jonathan {
@@ -69,10 +84,13 @@
     color: hsl(214, 17%, 92%);
     font-size: 21px;
     line-height: 25px;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: large;
+    margin: 0;
 }
 
 .blog-jonathan , .blog-jeanette , .blog-patrick , .blog-kira {
-    color: hsl(0, 0%, 81%);
+    color: hsl(0, 1%, 67%);
 }
 
 
@@ -87,16 +105,20 @@
 .author-name-jeanette {
     color: hsl(219, 29%, 14%);
     font-weight: 600;
+    line-height: 15px;
 }
 
 .author-status-jeanette {
-    color: hsl(0, 0%, 81%);
+    color: hsl(0, 1%, 67%);
 }
 
 .blog-title-jeanette {
     color: hsl(219, 29%, 14%);
     font-size: 21px;
     line-height: 25px;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: large;
+    margin: 0;
 }
 
 
@@ -111,6 +133,7 @@
 .author-name-patrick {
     color: hsl(214, 17%, 92%);
     font-weight: 600;
+    line-height: 15px;
 }
 
 .author-status-patrick {
@@ -121,6 +144,9 @@
     color: hsl(214, 17%, 92%);
     font-size: 21px;
     line-height: 25px;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: large;
+    margin: 0;
 }
 
 
@@ -135,14 +161,18 @@
 .author-name-kira {
     color: hsl(219, 29%, 14%);
     font-weight: 600;
+    line-height: 15px;
 }
 
 .author-status-kira {
-    color: hsl(0, 0%, 81%);
+    color: hsl(0, 1%, 67%);
 }
 
 .blog-title-kira {
     color: hsl(219, 29%, 14%);
     font-size: 21px;
     line-height: 25px;
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-size: large;
+    margin: 0;
 }

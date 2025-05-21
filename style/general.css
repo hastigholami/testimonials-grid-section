@@ -1,6 +1,8 @@
 body {
     background: hsl(214, 17%, 92%);
     padding: 8rem;
+    width: fit-content;
+    height: fit-content;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
@@ -31,12 +33,6 @@ p {
     font-style: normal;
     font-size: 14.5px;
     line-height: 23px;
-}
-
-h3 {
-    font-family: "Barlow Semi Condensed", sans-serif;
-    font-style: normal;
-    margin: 0;
 }
 
 img {
