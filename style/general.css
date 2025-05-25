@@ -52,6 +52,7 @@ body {
 @media (max-width : 600px) {
     body {
         padding: 2rem;
+        width: 500px;
         height: fit-content;
     }
     .grid-blog {
