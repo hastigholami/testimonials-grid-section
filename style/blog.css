@@ -161,7 +161,7 @@
     border-radius: 10px;
 }
 
-@media (max-width : 600px) {
+@media (max-width : 450px) {
     .blog-preview-daniel , .blog-preview-jonathan , .blog-preview-jeanette , .blog-preview-patrick , .blog-preview-kira {
         width: 300px;
         height: fit-content;
