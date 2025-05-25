@@ -72,5 +72,8 @@ body {
     }
     footer {
         font-size: 60%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
