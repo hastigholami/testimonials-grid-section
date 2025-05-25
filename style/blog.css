@@ -163,7 +163,7 @@
 
 @media (max-width : 600px) {
     .blog-preview-daniel , .blog-preview-jonathan , .blog-preview-jeanette , .blog-preview-patrick , .blog-preview-kira {
-        width: 320px;
+        width: 300px;
         height: fit-content;
         margin-bottom: 2rem;
     }

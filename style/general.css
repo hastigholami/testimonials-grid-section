@@ -49,10 +49,10 @@ body {
     gap: 2rem;
 }
 
-@media (max-width : 600px) {
+@media (max-width : 450px) {
     body {
         padding: 2rem;
-        width: 500px;
+        width: 365px;
         height: fit-content;
     }
     .grid-blog {
