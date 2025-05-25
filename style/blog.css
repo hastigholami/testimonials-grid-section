@@ -38,6 +38,7 @@
 
 .blog-title-daniel {
     color: hsl(260, 100%, 95%);
+    font-size: 21px;
     line-height: 25px;
     position: relative;
     margin: 0;
@@ -45,7 +46,7 @@
 
 .blog-daniel {
     color: hsla(264, 82%, 80%, 0.707);
-    font-size: 900;
+    font-size: 13.5px;
     margin: 0px;
     line-height: 23px;
 }
@@ -72,13 +73,14 @@
 
 .blog-title-jonathan {
     color: hsl(214, 17%, 92%);
+    font-size: 21px;
     line-height: 25px;
     margin: 0;
 }
 
 .blog-jonathan , .blog-jeanette , .blog-patrick , .blog-kira {
     color: hsla(0, 1%, 67%, 0.754);
-    font-size: 900;
+    font-size: 13.5px;
     margin: 0px;
     line-height: 23px;
 }
@@ -105,6 +107,7 @@
 
 .blog-title-jeanette {
     color: hsl(219, 29%, 14%);
+    font-size: 21px;
     line-height: 25px;
     margin: 0;
 }
@@ -131,6 +134,7 @@
 
 .blog-title-patrick {
     color: hsl(214, 17%, 92%);
+    font-size: 21px;
     line-height: 25px;
     margin: 0;
 }
@@ -157,6 +161,7 @@
 
 .blog-title-kira {
     color: hsl(219, 29%, 14%);
+    font-size: 21px;
     line-height: 25px;
     margin: 0;
 }
